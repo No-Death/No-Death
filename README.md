@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @No-Death
 - 👀 I’m interested in games, coding and cars
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JavaScript
 
 <!---
 No-Death/No-Death is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
